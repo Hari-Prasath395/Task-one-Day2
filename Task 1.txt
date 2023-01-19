@@ -1,0 +1,13 @@
+Description:
+
+Window Object:
+	window object in JavaScript represent the current browser window.It has inbuilt properties and methods for manipulating the browser window such as open 
+close of new windows,controll the size and position of the window and more..The window object provides access to other javascript objects such as Document
+Object which represent the current web page.
+
+Document Object:
+	The Document object in javascript represents the current web page ,and it has methods or properties for manipulating the content of the Page.So,through
+Document object handling and modifying of HTML and CSS components are easily achieved.It also provides methods for creating new elements and handling events etc..
+
+Conclusion:
+	Window and Document objects in Javascript are the important built in objects for working with the browser and web page.
